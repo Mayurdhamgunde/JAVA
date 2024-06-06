@@ -2,7 +2,7 @@
 
 # 📸Snapshots : - 
 
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/JAVA/blob/master/JAVA%20SPRINGBOOT/DatabaseInteract/ProjectPhotos/h2-console-1.png" width="89%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/JAVA/blob/master/JAVA%20SPRINGBOOT/DatabaseInteract/ProjectPhotos/h2-console-1.png" width="95%"/>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/JAVA/blob/master/JAVA%20SPRINGBOOT/DatabaseInteract/ProjectPhotos/h2-console-2.png?raw=true" width="89%"/>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/JAVA/blob/master/JAVA%20SPRINGBOOT/DatabaseInteract/ProjectPhotos/h2-console-3.png?raw=true" width="89%"/>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/JAVA/blob/master/JAVA%20SPRINGBOOT/DatabaseInteract/ProjectPhotos/h2-console-4.png?raw=true" width="89%"/>
